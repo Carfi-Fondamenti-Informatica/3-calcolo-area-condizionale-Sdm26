@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {
    float a,b,area;
-   int ozpione;
+   int opzione;
    cin>>a>>b;
    cin>>opzione;
    if (
